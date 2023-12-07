@@ -1,4 +1,4 @@
-# CMPE 260 -Reinforcement Learning
+# CMPE 260 - Reinforcement Learning
 # Team : Petabyte Transformers
 # Project : Training a Self Driving Car agent to use V2V data along with vision data to learn to achieve higher speeds on freeways
 
